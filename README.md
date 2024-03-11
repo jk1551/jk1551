@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jk1551&label=Profile%20views&color=0e75b6&style=flat" alt="jk1551" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://joking.dev](https://joking.dev)
+- 👨‍💻 My portfolio site is at [https://joking.dev](https://joking.dev)
 
 - 📝 I regularly write articles on [https://joe4v1l4.substack.com/](https://joe4v1l4.substack.com/)
 
