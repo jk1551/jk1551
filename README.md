@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph King</h1>
-<h3 align="center">USA</h3>
+<h3 align="center">Software Engineer @ Cynergy Wellness</h3>
+
+<p>Hi I'm Joe, I'm based in Lynchburg Virginia. I love working on software that makes a difference in the world.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jk1551&label=Profile%20views&color=0e75b6&style=flat" alt="jk1551" /> </p>
 
