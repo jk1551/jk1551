@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joseph King</h1>
 <h3 align="center">Software Engineer @ Cynergy Wellness</h3>
-
-- 👨‍💻 My portfolio site is at [https://joking.dev](https://joking.dev)
-
-- 📝 I regularly write articles on [https://joe4v1l4.substack.com/](https://joe4v1l4.substack.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
